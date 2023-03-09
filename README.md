@@ -1,2 +1,1 @@
-# ypracticum_projects
-Yandex Pricticum Projects
+# Yandex Pricticum Projects
